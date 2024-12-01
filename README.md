@@ -1,5 +1,7 @@
 # 【志贤说】dawn 积分机器人
 
+## 注册请使用我的邀请码：`hkad1204`，也算是小小的支持一下作者
+
 ## 视频教程：
 
 https://www.bilibili.com/video/BV1cnzoYPEE3/
