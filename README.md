@@ -71,7 +71,7 @@ https://docs.qq.com/doc/DWmFzelhCc01SeUdS?u=530300f2b88c49b2867c94dee9f700be
 
    getInfo()
      .then((res) => {
-       console.log("获取成功，请复制下方的信息的到token.json")
+       console.log("获取成功，请复制下方的信息的到1_users.json")
        console.log(JSON.stringify(res))
      })
      .catch((err) => {
