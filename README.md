@@ -95,3 +95,8 @@ https://docs.qq.com/doc/DWmFzelhCc01SeUdS?u=530300f2b88c49b2867c94dee9f700be
 
 3. 配置 key
    - 打开`3_key.txt`，把 key 填进去，没有的可以找作者申请，微信：caba_9527
+
+## 更新日志
+
+- v1.0.0 2024-12-01 首发版本
+- v1.1.0 2024-12-01 修改多 ip 模式运行内存警告问题
