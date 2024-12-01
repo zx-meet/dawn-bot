@@ -11,6 +11,8 @@
 
 ## 使用说明
 
+详细图文教程：https://docs.qq.com/doc/DWmFzelhCc01SeUdS?u=530300f2b88c49b2867c94dee9f700be
+
 ### 1. 运行方式
 
 1. 双击启动.bat
