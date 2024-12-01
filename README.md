@@ -1,5 +1,13 @@
 # 【志贤说】dawn 积分机器人
 
+## 视频教程：
+
+https://www.bilibili.com/video/BV1cnzoYPEE3/
+
+## 详细图文教程：
+
+https://docs.qq.com/doc/DWmFzelhCc01SeUdS?u=530300f2b88c49b2867c94dee9f700be
+
 ## 声明
 
 本教程由志贤说开源，仅用作技术交流学习，本人不售卖代理 ip，请勿用作商业用途！！
@@ -10,8 +18,6 @@
 - b 站：[【志贤说】](https://space.bilibili.com/87933252)
 
 ## 使用说明
-
-详细图文教程：https://docs.qq.com/doc/DWmFzelhCc01SeUdS?u=530300f2b88c49b2867c94dee9f700be
 
 ### 1. 运行方式
 
